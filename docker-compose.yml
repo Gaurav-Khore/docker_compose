@@ -23,3 +23,10 @@ services:
 
 volumes:
         post_vol:
+        
+        
+#Drupal web installation walkthrough:-
+# Dtabase Name=<POSTGRES_DB>
+#User Name=<POSTGRES_USER>
+# Password=<POSTGRES_PASSWORD>
+# Advance options: Database host=postgres
